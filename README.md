@@ -1,4 +1,4 @@
-# qa-testing-projects
+
 Selenium automation, test  cases and Postman API testing projects
 # QA Testing Projects
 
@@ -6,7 +6,7 @@ Software testing projects by Madhushree N.
 
 ## 1. Selenium Automation (Java)
 - Tools: Selenium WebDriver, Core Java, Eclipse
-- Modules automated: [Module 1], [Module 2]
+- Modules automated: [validsignup], [Invalidsignup]
 - Scenarios: valid and invalid inputs for each module
 - Folder: automation-selenium/
 
